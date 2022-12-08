@@ -5,4 +5,4 @@
   # About Us : 
   
   
-<img src="slogan.webp" width="400">
+<img src="slogan.webp" width="800">
