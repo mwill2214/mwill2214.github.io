@@ -5,4 +5,4 @@
 # Home Page
   some text
   
-<img src="Home pic 1.jpg">
+<img src="Home pic 1.webp">
