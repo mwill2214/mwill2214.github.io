@@ -3,6 +3,7 @@
                                                                                       
                                                                                       
 # Home Page
-  some text
+     
+  New Life D&C LLC Growth and Retention Natural Hair Care.
   
 <img src="Home pic 1.webp" width="400">
